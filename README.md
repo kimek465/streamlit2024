@@ -1,1 +1,1 @@
-# streamlit2024 정보 연수 수정1
+# streamlit2024 정보 연수
